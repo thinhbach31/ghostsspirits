@@ -83,3 +83,8 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+/.idea/androidDexCompiler.xml
+/.idea/codeStyles/codeStyleConfig.xml
+/gradlew.bat
+/.idea/jarRepositories.xml
+/.idea/misc.xml
